@@ -1,0 +1,65 @@
+[
+  {
+    "image": "img/Snow_White.JPG.webp",
+    "name": "Snow White",
+    "jobTitle": "Princess",
+    "age": "Young adult",
+    "description": "Snow White is a kind and gentle princess"
+  },
+
+  {
+    "image": "img/ab6761610000e5eb7ac3385e1033229ea480dc9d.jpeg",
+    "name": "Mickey Mouse",
+    "jobTitle": "Cartoon Character",
+    "age": "Eternal youth (approximately 90+ years)",
+    "description": "Mickey Mouse is one of the most iconic and beloved cartoon characters created by Walt Disney."
+  },
+
+  {
+    "name": "Princess Jasmine",
+    "jobTitle": "Princess",
+    "image": "img/jamsine-princess-disney.jpg",
+    "age": "Teenager",
+    "description": "Princess Jasmine is a strong-willed and independent young woman."
+  },
+
+  {
+    "name": "Cinderella",
+    "jobTitle": "Princess",
+    "image": "img/beauty4.webp",
+    "age": "Young adult",
+    "description": "Cinderella is a kind and gentle young woman."
+  },
+
+  {
+    "name": "Tiana",
+    "jobTitle": "Chef",
+    "image": "img/mb_character-tiana_launch_2x_m.jpg",
+    "age": "Young adult",
+    "description": "Tiana is a hardworking and ambitious young woman."
+  },
+
+  {
+    "name": "Aurora",
+    "jobTitle": "Princess",
+    "image": "img/02f7ea5e3c53cbfcdec1c2ad6bd86cf4.jpg",
+    "age": "Teenager",
+    "description": "Aurora, also known as Sleeping Beauty, is a beautiful princess."
+  },
+
+  {
+    "name": "Winnie the Pooh",
+    "jobTitle": "Teddy",
+    "image": "img/winnie-the-pooh-friends-i12468.jpg",
+    "age": "Ageless (represents a childlike innocence)",
+    "description": "Winnie the Pooh, often referred to as Pooh Bear, is a lovable and friendly bear who lives in wood."
+  },
+
+  {
+    "name": "Moana",
+    "jobTitle": "Princess",
+    "image": "img/image.webp",
+    "age": "Teenager",
+    "description": "Moana is a brave and adventurous teenager from the island of Motunui."
+  }
+]
